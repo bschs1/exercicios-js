@@ -1,0 +1,1 @@
+// é uma função na msm linha q n usa return, pq ela se retorna

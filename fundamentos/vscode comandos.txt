@@ -1,0 +1,10 @@
+Run Code = CTRL + ALT + n
+Stop Code = CTRL + ALT + m
+Limpar Output = CTRL + SHIFT + DEL 
+Selecionar linha = CTRL + L 
+Deletar linha = CTRL + X
+Duplicar linha = SHIFT + ALT + UP/DOWN
+Formatar Code =  SHIFT + ALT + F
+
+
+PIPE = ALT + 124

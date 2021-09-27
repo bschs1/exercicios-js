@@ -1,0 +1,20 @@
+v e v -> verdadeiro
+v e f -> falso
+v e qlqr coisa -> falso
+
+pra ser verdadeiro todos tem q ser verdadeiros
+
+op1 e op2 e op3 e op4 -> verdadeiro se TODOS forem verdadeiros, se um só for falso vai ser td falso.
+
+f e f -> falso
+
+
+v xor v -> falso
+v xor f -> verdadeiro
+f xor f -> verdadeiro
+f xor f -> falso
+
+os iguais é falso, os diferentes são verdadeiros
+
+!v -> falso
+!f -> verdadeiros
