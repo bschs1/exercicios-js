@@ -25,3 +25,4 @@ comparaComThisArrow(obj)
 comparaComThisArrow(module.exports)
 // A ARROW FUNCTION É MAIS FORTE Q BIND. RESULTADO FALSO.
 // sexo qweqweaaa
+//q sexo anal
