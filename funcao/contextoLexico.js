@@ -1,4 +1,4 @@
-const valor = 'Global' // escopo global
+const valor = 'Global' // Variável global dentro da função exec (escopo global)
 
 function minhaFuncao() {
     console.log(valor)

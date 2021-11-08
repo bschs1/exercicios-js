@@ -1,0 +1,1 @@
+// é uma função auto invocada, usada no browser para fugir do escopo global 
