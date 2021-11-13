@@ -3,15 +3,15 @@
 
 // contexto léxico em ação
 
-const x = 'Global'
+const x = 'Global' // variável global 
 
-function fora() {
-    const x = 'Local'
-    function dentro () {
+function fora() { // função fora do escopo global 
+    const x = 'Local' // variável local 
+    function dentro () { // função dentro do escopo global 
         return x 
     }
     return dentro
 }
 
-const minhaFuncao = fora()
-console.log(minhaFuncao())
+const minhaFuncao = fora() // minhaFuncao recebe a função fora 
+console.log(minhaFuncao()) // imprime a função dentro do escopo global 
