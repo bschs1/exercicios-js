@@ -14,7 +14,7 @@ console.log(obj2)
 apagar()
 // com funções construtoras (constructors)
 function Produto(nome, preco, desc) {
-    this.nome = nome // o this é pra deixar a variavel pública
+    this.nome = nome // o this é pra deixar a variavel pública pro objeto se n me engano
     // preco e desconto vão continuar ENCAPSULADOS
     this.getPrecoComDesconto = () => {
         return preco * (1 - desc)
