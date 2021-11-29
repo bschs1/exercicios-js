@@ -1,3 +1,8 @@
+// Any expression after => in arrow functions becomes implicit return of function but You need to return explicitly in normal function using return keyword. 
+
+// IMPORTANTE :  if you have only one parameter, you can skip the parentheses
+
+
 // função normal:
 let dobro = function (a) {
     return 2 * a
