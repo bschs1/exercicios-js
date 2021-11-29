@@ -2,6 +2,7 @@
 // break n pode usar em if
 // usa em for while e switch
 // continue serve em for e while
+// ignora essa linha to so testando o github
 
 // EVITAR USAR BREAK
 
