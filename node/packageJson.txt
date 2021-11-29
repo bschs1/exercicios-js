@@ -1,0 +1,1 @@
+o package json serve como uma descrição de todas as dependencias que o projeto precisa
