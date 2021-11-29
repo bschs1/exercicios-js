@@ -1,4 +1,7 @@
 // callback = chamar de volta
+// A callback is a function passed as an argument to another function.
+
+
 const fabricantes = ['Mercedes', 'Audi', 'BMW']
 
 function imprimir(nome, indice) { 

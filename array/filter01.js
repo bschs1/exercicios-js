@@ -26,16 +26,19 @@ console.log(produtos.filter(function(p) { // parametro p = cada um dos elementos
 */
 
 
-// Any expression after => in arrow functions becomes implicit return of function but You need to return explicitly in normal function using return keyword. 
-
-
 const caro = function(produto){
     return produto.preco >= 500
 }
-
 const fragil = function(produto){
     return produto.fragil
 }
+
+// Any expression after => in arrow functions becomes implicit return of function but You need to return explicitly in normal function using return keyword. 
+
+// arrow
+//const caro = produto => produto.preco >= 500
+//const fragil = produto => produto.fragil
+
 
 
 
