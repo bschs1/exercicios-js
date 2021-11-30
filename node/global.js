@@ -10,3 +10,6 @@ global.MinhaApp = {
     nome: 'Sistema Legal'
 }
 
+function add  (a , b ) {
+    return a +       b
+}
