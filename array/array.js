@@ -2,7 +2,7 @@
 // é heterogenia, pode ter varios tipos de dados dentro de um array
 // a boa prática diz que é bom deixar cada array com um determinado tipo, deixar ele homogeneo mesmo.
 
-console.log(typeof Array, typeof new Array, typeof [])
+console.log(typeof Array, typeof new Array(), typeof [])
 
 let aprovados = new Array('Bia', 'Carlos', 'Ana')
 console.log(aprovados)
@@ -37,10 +37,3 @@ aprovados.splice(1, 2, 'Elemento 1', 'Elemento 2') // serve pra adicionar ou rem
 console.log(aprovados) // alteramos os índicess 1 e 2 por elemento 1 e elemento 2 respectivamente
 
 //revisar como é a sintaxe de splice !!!!!!!!!!!!!!!!!
-
-
-
-
-
-
-
