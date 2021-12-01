@@ -1,0 +1,11 @@
+pode ter parametro na tag por ex <tag param1="valor1>
+existem tags e parametros pre definidos
+existem parametros definidiso que cada tag suporta
+inpur por exemplo:
+input -> tem varios parametros
+<input type="button" value="processar!" 
+a linha acima sao coisas específicas do HTML
+no html vc pode cirar seus proprios parametros
+<input type="text" cod3r-cpf>
+linha acima tem o parametro cod3r-cpf foi inventado
+<calendario>tag inventada (componente isso)<calendario>

@@ -1,0 +1,30 @@
+tag doctype = versão do html
+tag head = elementos n visuais, só o titulo é visual, e pra importar coisas
+tag meta = define o meta data, UTF-8 normalmente
+tag body = organização da página, lá que fica tudo
+tag nav = navegação
+tag section = pra definir uma sessão, ela tem parametros, no caso é section id='conteudo'
+tag footer = rodapé
+tag header = tag de conteúdo introdutorio ou um nav de links, normalmente vem junto com as tags <h1-h6>, logo ou icone, informação do autor
+tag br = pular linha, boa pra escrever endereços, ela é uma tag q n se fecha
+tag div = define uma divisao dentrod o html, usada dentro de um container pros elementos do HTML, pra basicamente o CSS achar o que ele tem que stylizar
+tag div pt2 = pode ser estilizada utilizando class ou id, qualquer tipo de conteudo pode ficar dentro da tag div
+tag input = lugar q o usuario pode digitar algo, é importante p krl pra forms, depende mtu do type de input que é por ex <input type ='button'>
+tag ol = listas ordenadas por ordem alfabetica ou numerica, pode colocar css nas listas
+tag li = listas, utilizada dentro da tag ol(lista ordenada) ou dentro de ul(lista n ordenada) ou em menus (<menu>)
+tag ul = listas nao ordenada, pode ser estilizada com o css
+tag tr = é utilizada pra coluna no html, pode conter as tags th ou td dentro dele
+tag th = é pra colocar uma header dentro de uma planilha dentro de uma tabela do html, fica dentro de tr
+tag td = dados da tabela, de cada célula, fica dentro de tr
+tag p = paragrafos
+tag img = colocar imagem => sintaxe: <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+tag script = colocar scripts do cliente-side ex: <script> document.getElementById("demo").innerHTML = "Hello JavaScript!";</script>
+tag a = links! <a href="facebook.com">navegação</a>
+tag main = conteudo principal do documento,
+tag aside = barra lateral, bom pra colocar propagandas ou tópicos de outras coisas, o css q comanda onde essa merda vai ficar hehexd
+tag span = usada pra marcar uma parte do texto ou do documento, é feita pra ser manipulada pelo CSS
+PARAMETRO ID = Identificador único da pagina
+PARAMETRO class = é um identificador associado ao uso de estilo, é pra utilizar mais de um estilo com mais de uma classe
+
+IMPORTANTE: id= e class= são mt utilizados no HTML, o class é pra estilo, o id é pra estilo mas é mais pra identificador único em uma página
+IMPORTANTE: É bom ter suas próprias tags pq fica mais fácil de encontrar com o javascript

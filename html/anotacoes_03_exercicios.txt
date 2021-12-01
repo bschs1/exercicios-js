@@ -1,0 +1,2 @@
+aqui vamos utilizar o ajax, e tbm o document.querySelect pra interceptar o click, pra fazermos com que a transição de pagina seja feita por meio do javascript, n do html
+e vamos pedir pra ele selecionar todas as tags document.querySelectorAll('a').forEach(link => {console.log(link)})

@@ -1,0 +1,25 @@
+Fazendo sumir o h1:
+    <style>
+        h1 {
+            display: none // some com o h1
+        }
+    </style>
+
+sempre é nessa sintaxe por ex: background: red;       termina com ponto e virgula
+
+Criando classe no Css:
+.fundoVermelho       ponto seguido do nome da classe
+
+QuerySelector no Browser:
+podemos utilizar document.QuerySelector('.fundoVermelho') pra retornar onde tem este fundo
+
+Editando o CSS de um ID(usa o #):
+#textoPrincipal {
+    font-size: 40px;
+    font-weight: bold; //bold é negrito
+    color: #FFF
+    background-color: #444;
+    padding: 10px;  // o espaçamento
+    margin-bottom: 50px;  // é pra dar espaçamento, neste caso no bottom
+    
+}
