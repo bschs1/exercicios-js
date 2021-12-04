@@ -1,7 +1,7 @@
 // O THIS DA ARROW FUNCTION É ASSOCIADO AO CONTEXTO EM Q A FUNÇÃO FOI E S C R I T A
 
 let comparaComThis = function (param) {
-    console.log(this === param) adasd
+    console.log(this === param) 
 }
 
 comparaComThis(global) // true é global (no node, no browser é window)
