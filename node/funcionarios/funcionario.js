@@ -2,11 +2,6 @@
 // axios é um client http, ele faz requisições de algo remoto
 // usaremos o axios pra pegar o json
 
-//NÃO CONSEGUI FAZER
-
-//o prof utilizou, filter, reduce -> revisar
-
-
 const url = 'http://files.cod3r.com.br/curso-js/funcionarios.json'
 const axios = require('axios')
 
